@@ -3,5 +3,5 @@
 <br>
 <b><p>I am going to start Git tutorial </p></b>
 <br>
-<p><b>Fisrt Lecture</b>About clone and Status Commands</p>
+<p><b>Fisrt Lecture : </b>About clone and Status Commands</p>
 
